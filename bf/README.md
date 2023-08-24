@@ -17,16 +17,50 @@ The language's name is a reference to the slang term brainfuck, which refers to 
 
 In Brainfuck, the language consists of only eight commands, each represented by a single character. The commands are:
 
-	| Command | Description                                    |
-	|---------|------------------------------------------------|
-	| `>`     | Increment the data pointer (move to the right) |
-	| `<`     | Decrement the data pointer (move to the left)  |
-	| `+`     | Increment the byte at the data pointer         |
-	| `-`     | Decrement the byte at the data pointer         |
-	| `.`     | Output the byte at the data pointer as a char  |
-	| `,`     | Read one byte of input and store it            |
-	| `[`     | Jump forward if the byte at data pointer is 0  |
-	| `]`     | Jump back if the byte at data pointer is nonzero|
+<p align="center">
+  <b>Brainfuck Commands</b>
+  <br>
+  <br>
+  <table>
+    <tr>
+      <th>Command</th>
+      <th>Description</th>
+    </tr>
+    <tr>
+      <td>`>`</td>
+      <td>Increment the data pointer (move to the right)</td>
+    </tr>
+    <tr>
+      <td>`<`</td>
+      <td>Decrement the data pointer (move to the left)</td>
+    </tr>
+    <tr>
+      <td>`+`</td>
+      <td>Increment the byte at the data pointer</td>
+    </tr>
+    <tr>
+      <td>`-`</td>
+      <td>Decrement the byte at the data pointer</td>
+    </tr>
+    <tr>
+      <td>`.`</td>
+      <td>Output the byte at the data pointer as a char</td>
+    </tr>
+    <tr>
+      <td>`,`</td>
+      <td>Read one byte of input and store it</td>
+    </tr>
+    <tr>
+      <td>`[`</td>
+      <td>Jump forward if the byte at data pointer is 0</td>
+    </tr>
+    <tr>
+      <td>`]`</td>
+      <td>Jump back if the byte at data pointer is nonzero</td>
+    </tr>
+  </table>
+</p>
+
 
 ## Examples:
 
