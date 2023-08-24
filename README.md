@@ -32,7 +32,7 @@ Welcome to the Monty project developed by the ALX software engineers students!
 
 Monty is a command-line interpreter for the Monty ByteCode files. This project is a part of the ALX Software Engineering program and demonstrates our understanding of programming concepts, data structures, and algorithms.
 
-It is is a Python-based interpreter for Monty ByteCode files. It reads and executes Monty ByteCode instructions from input files, allowing users to manipulate a stack data structure and perform various operations.
+It is a C-based interpreter for Monty ByteCode files. It reads and executes Monty ByteCode instructions from input files, allowing users to manipulate a stack data structure and perform various operations.
 
 ## Features
 
@@ -44,6 +44,10 @@ It is is a Python-based interpreter for Monty ByteCode files. It reads and execu
 
 ## Resources :
 
+- [StackOverFlow - extern variable use](https://stackoverflow.com/questions/1433204/how-do-i-use-extern-to-share-variables-between-source-files)
+- [Stacks and Queues in C](https://data-flair.training/blogs/stacks-and-queues-in-c/)
+- [Stack Operations](https://www.digitalocean.com/community/tutorials/stack-in-c)
+- [Queue Operations](https://www.edureka.co/blog/queue-in-c/)
 
 ## Compilation :
 
