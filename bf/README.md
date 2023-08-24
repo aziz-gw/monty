@@ -3,7 +3,7 @@
 Welcome to Brainf*ck directory !
 
 <p align="center">
-  <img src="https://th.bing.com/th/id/OIP.nswYjf4nMytCWM4I6lrSgwHaHa?pid=ImgDet&rs=1" alt="Image" width="200"/>
+  <img src="https://th.bing.com/th/id/OIP.nswYjf4nMytCWM4I6lrSgwHaHa?pid=ImgDet&rs=1" alt="Image"/>
 </p>
 
 
